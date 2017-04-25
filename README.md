@@ -1,2 +1,2 @@
-# shiny-broccoli
+# Prvi projekt na Github-u
 Opis naseg projekta...
